@@ -1,0 +1,61 @@
+ {
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    "Menu:BrandChallenge": "Brand Challenge",
+    "Menu:Brands": "Brands",
+    "Menu:Challenges": "Challenges",
+    "Menu:Tricks": "Tricks",
+    "Actions": "Actions",
+    "Close": "Close",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "NewBrand": "New brand",
+    "NewChallenge": "New challenge",
+    "NewTrick": "New trick",
+    "Name": "Name",
+    "Type": "Type",
+    "CreationTime": "Creation time",
+    "AreYouSure": "Are you sure?",
+    "AreYouSureToDelete": "Are you sure you want to delete this item?",
+    "Description": "Description",
+
+    "Enum:BrandType:0": "FoodChain",
+    "Enum:BrandType:1": "Beverages",
+    "Enum:BrandType:2": "Confectioners",
+    "Enum:BrandType:3": " Undefined",
+
+    "Enum:ChallengeType:0": " Text",
+    "Enum:ChallengeType:1": "Picture",
+    "Enum:ChallengeType:2": "Video",
+    "Enum:ChallengeType:3": "Undefined",
+
+    "Enum:TrickType:0": "Text",
+    "Enum:TrickType:1": "Picture",
+    "Enum:TrickType:2": "Video",
+    "Enum:TrickType:3": "Undefined",
+
+    "Permission:BrandChallenge": "Brand Challenge",
+    "Permission:Brands": "Brand Management",
+    "Permission:Brands.Create": "Creating new Brands",
+    "Permission:Brands.Edit": "Editing the Brands",
+    "Permission:Brands.Delete": "Deleting the Brands",
+
+    "Permission:Challenges": "Challenge Management",
+    "Permission:Challenges.Create": "Creating new Challenges",
+    "Permission:Challenges.Edit": "Editing the Challenges",
+    "Permission:Challenges.Delete": "Deleting the Challenges",
+
+    "Permission:Tricks": "Trick Management",
+    "Permission:Tricks.Create": "Creating new Tricks",
+    "Permission:Tricks.Edit": "Editing the Tricks",
+    "Permission:Tricks.Delete": "Deleting the Tricks",
+    "AppUser": "User",
+    "CheckResult": "Check Result"
+
+
+
+  }
+}
